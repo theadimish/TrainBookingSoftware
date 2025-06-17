@@ -6,14 +6,6 @@ Built with Java and designed to run seamlessly in any Eclipse environment, this 
 
 ---
 
-👥 Team: Loader Logic  
-- Aditya Mishra  
-- Surath Chowdhury  
-- Amam  
-- Ankesh  
-
----
-
 🚀 Features & Functionalities
 
 🎫 **Ticket Booking System**  
