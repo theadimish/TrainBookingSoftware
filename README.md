@@ -1,4 +1,4 @@
-🚆 TrainBookingSoftware - Your Console-Based Railway Reservation Companion
+# 🚆 TrainBookingSoftware - Your Console-Based Railway Reservation Companion
 
 **TrainBookingSoftware** is a simple, menu-driven Java application that simulates a railway ticket booking system via the command line. Designed for basic learning, it allows users to book and cancel tickets, view available seats, and manage train reservations effectively—all within a console interface.
 
